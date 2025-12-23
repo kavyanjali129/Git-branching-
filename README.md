@@ -71,7 +71,7 @@ git commit
 
 git merge bugFix
 
- About  (Git Merging – simple explanation)
+ # (Git Merging – simple explanation)
 
 This screenshot shows **Git merging** using the *Learn Git Branching* tool. First, a new branch called **bugFix** is created from the main branch, and a commit is made on the bugFix branch to fix an issue. 
 
